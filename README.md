@@ -1,3 +1,12 @@
+# Dataset Details:
+- Name: Wine Dataset
+- Source: Kaggle (tawfikelmetwally/wine-dataset)
+- Original source: UCI Machine Learning Repository
+- License: CC BY-SA 4.0
+
+
+
+
 # KNN Classification Project
 
 ## Overview
